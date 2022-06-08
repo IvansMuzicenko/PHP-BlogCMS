@@ -27,7 +27,6 @@
                 $post_image = $row['post_image'];
                 $post_content = $row['post_content'];
             ?>
-                <!-- First Blog Post -->
                 <h2>
                     <a href="#"><?php echo $post_title; ?></a>
                 </h2>
