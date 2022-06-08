@@ -1,3 +1,6 @@
+<!-- DB include -->
+<?php include "includes/db.php"; ?>
+
 <!-- Head -->
 <?php include "includes/header.php"; ?>
 <!-- Navigation -->
