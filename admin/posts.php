@@ -22,6 +22,9 @@
                         case 'add_post':
                             include_once "includes/add_post.php";
                             break;
+                        case 'edit_post':
+                            include_once "includes/edit_post.php";
+                            break;
 
                         default:
                             include_once "includes/view_all_posts.php";

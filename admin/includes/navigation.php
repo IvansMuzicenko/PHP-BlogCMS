@@ -57,7 +57,7 @@
                         <a href="./posts.php">View posts</a>
                     </li>
                     <li>
-                        <a href="#">Add posts</a>
+                        <a href="posts.php?source=add_post">Add posts</a>
                     </li>
                 </ul>
             </li>
@@ -82,8 +82,8 @@
                     </li>
                 </ul>
             </li>
-            <li class="active">
-                <a href="blank-page.html">
+            <li class="">
+                <a href="#">
                     <i class="fa fa-fw fa-file"></i>
                     Comments
                 </a>
